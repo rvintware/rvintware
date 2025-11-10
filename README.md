@@ -1,5 +1,4 @@
 # Hey I'm Rehan 👋
-Hi, I'm Rehan 👋
 
 I build enjoy building AI Agents.
 
