@@ -4,7 +4,7 @@ I enjoy building AI Agents.
 
 I enjoy building applications that solve problems we face in our daily lives.
 
-I like to keep my system architecture and solutions simple, and only add complexity when necessary.
+I like to keep my system architecture and solutions simple, only adding complexity when necessary.
 
 ---
 
