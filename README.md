@@ -2,9 +2,9 @@
 
 I enjoy building AI Agents.
 
-Most of my work revolves around solving problems that I face day to day. I enjoy building customer applications and integrating them with habits in our daily lives.
+I enjoy building applications that solve problems we face in our daily lives.
 
-I like to keep my architecture and solutions simple, and only add complexity when necessary.
+I like to keep my system architecture and solutions simple, and only add complexity when necessary.
 
 ---
 
