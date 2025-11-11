@@ -1,8 +1,6 @@
 # Hey I'm Rehan 👋
 
-I enjoy building AI Agents.
-
-I enjoy building applications that solve problems we face in our daily lives.
+I applications and AI agents that solve problems we face in our daily lives.
 
 I like to keep my system architecture and solutions simple, only adding complexity when necessary.
 
