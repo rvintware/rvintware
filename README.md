@@ -1,6 +1,6 @@
 # Hey I'm Rehan 👋
 
-I applications and AI agents that solve problems we face in our daily lives.
+I build applications and AI agents that solve problems we face in our daily lives.
 
 I like to keep my system architecture and solutions simple, only adding complexity when necessary.
 
